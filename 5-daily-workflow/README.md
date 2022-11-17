@@ -41,3 +41,6 @@ Now that you know how to make commits, you can learn more advanced Git topics st
 *	[Stage lines of code in Visual Studio | Microsoft Learn](https://aka.ms/vsgitlearn-1-line-stage)
 *	[Change the last commit | Microsoft Learn](https://aka.ms/vsgitlearn-1-amend)
 *	[Resolve merge conflicts in Visual Studio | Microsoft Learn](https://aka.ms/vsgitlearn-1-resolve-conflicts)
+
+the new line is added and can be discarded
+
