@@ -35,3 +35,7 @@ Please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give use 
 ## What’s next?
 Now that you know how to add your own code to GitHub, you can learn advanced more advanced Git topics like branching! Check the link below to learn more:
 *	[Create a branch in Visual Studio | Microsoft Learn](https://aka.ms/vsgitlearn-1-create-branch)
+
+## new version for main settings
+This is a new branch call ed first Branch in lession 4
+
